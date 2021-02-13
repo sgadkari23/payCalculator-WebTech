@@ -1,0 +1,12 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "PayCalculator",
+  "bundledWebRuntime": true,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
